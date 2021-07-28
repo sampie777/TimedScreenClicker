@@ -1,0 +1,14 @@
+.idea/
+idea/
+*.iml
+__pycache__
+*.bak
+*.tmp
+target/
+dependency-reduced-pom.xml
+out/
+releases/
+*.xcf
+*.db
+/*.ews
+.resources/
